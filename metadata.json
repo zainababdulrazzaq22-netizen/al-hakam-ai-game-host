@@ -1,0 +1,9 @@
+{
+  "name": "Family Arena — AI Referee & Game Host",
+  "description": "Physical family games hosted and refereed by AI: Real-life Football VAR & Match Referee, Falcon Poses Heritage Challenge, and Khatemha Emirati Wisdom game.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
